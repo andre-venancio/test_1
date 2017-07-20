@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "75506231695",
+    "firebase_url": "https://go44b1.firebaseio.com",
+    "project_id": "go44b1",
+    "storage_bucket": "go44b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75506231695:android:57719ff20c8a1dcb",
+        "android_client_info": {
+          "package_name": "br.com.smartbricks.www.go44v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75506231695-5d0dolpnobch5c63kivlu9d0cammipjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.smartbricks.www.go44v1",
+            "certificate_hash": "e2c629950cee7760c5159194013a3ab3803c0fde"
+          }
+        },
+        {
+          "client_id": "75506231695-035qpqemg1625obv0k023hel26sf5aqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_yUp9GwC7LF5mj4TLg3PDDbgeU9UcEYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75506231695-035qpqemg1625obv0k023hel26sf5aqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
